@@ -12,9 +12,11 @@ square = n ** 2
 cube = n ** 3
 fifth_power = n ** 5
 tenth_power = n ** 10
+twenty_power = n ** 20
 
 # Display results
 st.write(f"The square of {n} is: {square} \n")
 st.write(f"The cube of {n} is: {cube} \n")
 st.write(f"The fifth power of {n} is: {fifth_power} \n")
 st.write(f"The tenth power of {n} is: {tenth_power} \n")
+st.write(f"The twenty power of {n} is: {twenty_power} \n")
