@@ -29,7 +29,3 @@ jobs:
     - name: Run tests
       run: |
         pytest _test.py
-
-    - name: Run streamlit app
-      run: |
-        streamlit run app.py
